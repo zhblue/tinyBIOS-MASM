@@ -1,0 +1,253 @@
+m6117.ASM(69) : Error A2209: Syntax error: cs
+ m6117.ASM(69): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(93) : Warning A4149: Too many arguments in macro call: ret_sp: getunreal
+ m6117.ASM(93): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(93) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(93): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(104) : Error A2030: Instruction or register not accepted in current CPU mode
+ m6117.ASM(104): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(126) : Warning A4149: Too many arguments in macro call: ret_sp: cs_get
+ m6117.ASM(126): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(126) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(126): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(126) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  m6117.ASM(126): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(128) : Warning A4149: Too many arguments in macro call: ret_sp: cs_set
+ m6117.ASM(128): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(128) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(128): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(128) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  m6117.ASM(128): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(134) : Error A2030: Instruction or register not accepted in current CPU mode
+ m6117.ASM(134): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(135) : Error A2030: Instruction or register not accepted in current CPU mode
+ m6117.ASM(135): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(148) : Error A2030: Instruction or register not accepted in current CPU mode
+ m6117.ASM(148): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(148) : Error A2065: Constant expected
+ m6117.ASM(148): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(160) : Error A2030: Instruction or register not accepted in current CPU mode
+ m6117.ASM(160): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(160) : Error A2065: Constant expected
+ m6117.ASM(160): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(188) : Warning A4149: Too many arguments in macro call: ret_sp: cs_get
+ m6117.ASM(188): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(188) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(188): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(188) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  m6117.ASM(188): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(191) : Warning A4149: Too many arguments in macro call: ret_sp: cs_set
+ m6117.ASM(191): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(191) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(191): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(191) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  m6117.ASM(191): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(201) : Warning A4149: Too many arguments in macro call: ret_sp: cs_get
+ m6117.ASM(201): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(201) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(201): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(201) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  m6117.ASM(201): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(212) : Error A2238: Instruction form requires 80386
+ m6117.ASM(212): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(212) : Error A2238: Instruction form requires 80386
+ m6117.ASM(212): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(216) : Warning A4149: Too many arguments in macro call: ret_sp: cs_set
+ m6117.ASM(216): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(216) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  m6117.ASM(216): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(216) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  m6117.ASM(216): Included by
+   BIOS.ASM(82): Main line code
+m6117.ASM(238) : Error A2238: Instruction form requires 80386
+ m6117.ASM(238): Included by
+  BIOS.ASM(82): Main line code
+m6117.ASM(238) : Error A2238: Instruction form requires 80386
+ m6117.ASM(238): Included by
+  BIOS.ASM(82): Main line code
+..\post.ASM(35) : Warning A4149: Too many arguments in macro call: ret_sp: postcode
+ ..\post.ASM(35): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(35) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(35): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(35) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(35): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(37) : Warning A4149: Too many arguments in macro call: ret_sp: cs_clr
+ ..\post.ASM(37): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(37) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(37): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(37) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(37): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(39) : Warning A4149: Too many arguments in macro call: ret_sp: post_clr
+ ..\post.ASM(39): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(39) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(39): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(39) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(39): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(44) : Warning A4149: Too many arguments in macro call: ret_sp: postcode
+ ..\post.ASM(44): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(44) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(44): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(44) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(44): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(45) : Warning A4149: Too many arguments in macro call: ret_sp: cs_init
+ ..\post.ASM(45): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(45) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(45): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(45) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(45): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(51) : Warning A4149: Too many arguments in macro call: ret_sp: postcode
+ ..\post.ASM(51): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(51) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(51): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(51) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(51): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(52) : Warning A4149: Too many arguments in macro call: ret_sp: cs_det
+ ..\post.ASM(52): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(52) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(52): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(52) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(52): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(60) : Warning A4149: Too many arguments in macro call: ret_sp: postcode
+ ..\post.ASM(60): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(60) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(60): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(60) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(60): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(61) : Warning A4149: Too many arguments in macro call: ret_sp: cs_shad
+ ..\post.ASM(61): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(61) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(61): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(61) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(61): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(67) : Warning A4149: Too many arguments in macro call: ret_sp: postcode
+ ..\post.ASM(67): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(67) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(67): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(67) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(67): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(69) : Warning A4149: Too many arguments in macro call: ret_sp: vid_init
+ ..\post.ASM(69): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(69) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(69): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(69) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(69): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(84) : Warning A4149: Too many arguments in macro call: ret_sp: postcode
+ ..\post.ASM(84): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(84) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(84): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(84) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(84): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(85) : Warning A4149: Too many arguments in macro call: ret_sp: getunreal
+ ..\post.ASM(85): Included by
+  BIOS.ASM(84): Main line code
+..\post.ASM(85) : Error A2151: Unexpected literal found in expression: \1
+ ret_sp(2)[equ.ASM]: Macro called from
+  ..\post.ASM(85): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(85) : Error A2056: Symbol already defined: m1
+ ret_sp(3)[equ.ASM]: Macro called from
+  ..\post.ASM(85): Included by
+   BIOS.ASM(84): Main line code
+..\post.ASM(85) : Fatal error A1113: Too many errors
