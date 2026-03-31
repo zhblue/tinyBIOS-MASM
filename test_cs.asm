@@ -1,0 +1,7 @@
+_TEXT SEGMENT PARA PUBLIC USE16 "CODE"
+ORG 0
+mov si, 0
+mov ax, cs:[si]
+db 0
+_TEXT ENDS
+END

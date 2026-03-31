@@ -1,0 +1,8 @@
+_TEXT SEGMENT PARA PUBLIC USE16 "CODE"
+ORG 0
+copyrt:
+DB "test",13,10
+copyrt2:
+DB "test2",13,10
+_TEXT ENDS
+END

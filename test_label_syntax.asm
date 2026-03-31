@@ -1,0 +1,7 @@
+_TEXT SEGMENT PARA PUBLIC USE16 'CODE'
+ORG 0
+copyrt: db "ALI M6117C",13,10
+db 0
+copyrt2 db "test",13,10
+_TEXT ENDS
+END

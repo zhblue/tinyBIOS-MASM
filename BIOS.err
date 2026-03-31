@@ -1,0 +1,152 @@
+ALI1487/BIOS.ASM(77) : Error A2209: Syntax error: copyrt
+ALI1487/..\message.ASM(14) : Error A2209: Syntax error: msg_iochk
+ ALI1487/..\message.ASM(14): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(16) : Error A2209: Syntax error: msg_halt
+ ALI1487/..\message.ASM(16): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(18) : Error A2209: Syntax error: msg_noboot
+ ALI1487/..\message.ASM(18): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(20) : Error A2209: Syntax error: msg_base
+ ALI1487/..\message.ASM(20): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(22) : Error A2209: Syntax error: msg_ext
+ ALI1487/..\message.ASM(22): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(24) : Error A2209: Syntax error: msg_crlf
+ ALI1487/..\message.ASM(24): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(26) : Error A2209: Syntax error: msg_kbd
+ ALI1487/..\message.ASM(26): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(28) : Error A2209: Syntax error: msg_bs
+ ALI1487/..\message.ASM(28): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(32) : Error A2209: Syntax error: msg_wait
+ ALI1487/..\message.ASM(32): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/..\message.ASM(34) : Error A2209: Syntax error: msg_dot
+ ALI1487/..\message.ASM(34): Included by
+  ALI1487/BIOS.ASM(79): Main line code
+ALI1487/ali.ASM(71) : Error A2209: Syntax error: cs
+ ALI1487/ali.ASM(71): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(93) : Error A2209: Syntax error: cs
+ ALI1487/ali.ASM(93): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(194) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(194): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(196) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(196): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(199) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(199): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(202) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(202): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(214) : Error A2048: Operands must be the same size: 2 - 4
+ ALI1487/ali.ASM(214): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(215) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(215): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(220) : Error A2048: Operands must be the same size: 2 - 4
+ ALI1487/ali.ASM(220): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(221) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(221): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(230) : Error A2217: Nondigit in number: 55aaff00
+ ALI1487/ali.ASM(230): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(231) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(231): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(233) : Error A2048: Operands must be the same size: 2 - 4
+ ALI1487/ali.ASM(233): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(234) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(234): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(240) : Error A2048: Operands must be the same size: 2 - 4
+ ALI1487/ali.ASM(240): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(241) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(241): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(261) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(261): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(262) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(262): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(413) : Error A2209: Syntax error: a4
+ ALI1487/ali.ASM(413): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(433) : Error A2209: Syntax error: cs
+ ALI1487/ali.ASM(433): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(456) : Error A2209: Syntax error: cs
+ ALI1487/ali.ASM(456): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(460) : Error A2209: Syntax error: cs
+ ALI1487/ali.ASM(460): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(555) : Error A2049: Invalid instruction operands
+ ALI1487/ali.ASM(555): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(556) : Error A2049: Invalid instruction operands
+ ALI1487/ali.ASM(556): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(560) : Error A2048: Operands must be the same size: 1 - 2
+ ALI1487/ali.ASM(560): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(562) : Error A2049: Invalid instruction operands
+ ALI1487/ali.ASM(562): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(565) : Error A2048: Operands must be the same size: 1 - 2
+ ALI1487/ali.ASM(565): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(572) : Error A2048: Operands must be the same size: 1 - 4
+ ALI1487/ali.ASM(572): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(612) : Error A2209: Syntax error: cs
+ ALI1487/ali.ASM(612): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(620) : Error A2209: Syntax error: cs_intab
+ ALI1487/ali.ASM(620): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(643) : Error A2209: Syntax error: cs_tab
+ ALI1487/ali.ASM(643): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(644) : Error A2217: Nondigit in number: 0c5
+ ALI1487/ali.ASM(644): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(651) : Error A2217: Nondigit in number: 0E1
+ ALI1487/ali.ASM(651): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(652) : Error A2217: Nondigit in number: 0c4
+ ALI1487/ali.ASM(652): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(654) : Error A2217: Nondigit in number: 04e
+ ALI1487/ali.ASM(654): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(655) : Error A2217: Nondigit in number: 01C
+ ALI1487/ali.ASM(655): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(664) : Error A2217: Nondigit in number: 02A
+ ALI1487/ali.ASM(664): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(665) : Error A2217: Nondigit in number: 02B
+ ALI1487/ali.ASM(665): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(676) : Error A2217: Nondigit in number: 03A
+ ALI1487/ali.ASM(676): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(677) : Error A2217: Nondigit in number: 03B
+ ALI1487/ali.ASM(677): Included by
+  ALI1487/BIOS.ASM(84): Main line code
+ALI1487/ali.ASM(677) : Fatal error A1113: Too many errors
